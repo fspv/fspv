@@ -5,6 +5,9 @@
 * 2021-09-28 [Dynamic programming is simple](/articles/dynamic-programming-is-simple.md)
     * [Medium](https://medium.com/@pv.safronov/dynamic-programming-is-simple-1174aed46e4c)
     * [Leetcode](https://leetcode.com/discuss/study-guide/1490172/Dynamic-programming-is-simple)
+* 2021-09-29 [Coding interview script](/articles/coding-interview-structure.md)
+    * [Medium](https://medium.com/@pv.safronov/coding-interview-script-b399e6be2ee3)
+    * [Leetcode](https://leetcode.com/discuss/general-discussion/1490977/coding-interview-script)
 
 # Videos
 * 2021-09-21 [System Design interview podcast (Russian)](https://www.youtube.com/watch?v=TyNo3oqSJ8k)
