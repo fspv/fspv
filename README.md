@@ -10,6 +10,8 @@
     * [Leetcode](https://leetcode.com/discuss/general-discussion/1490977/coding-interview-script)
 * 2021-09-29 [Introduction Talk](/articles/introduction-talk.md)
     * [Medium](https://medium.com/@pv.safronov/introduction-talk-75fb5299fa7f)
+* 2021-09-29 [Anki + studying](/articles/anki.md)
+    * [Medium](https://medium.com/@pv.safronov/anki-studying-3-14e8f8f2f4)
 
 # Videos
 * 2021-09-21 [System Design interview podcast (Russian)](https://www.youtube.com/watch?v=TyNo3oqSJ8k)
