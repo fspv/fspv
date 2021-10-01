@@ -1,10 +1,10 @@
 # Accounts
-    * [Linked In](https://linkedin.com/in/pvs)
-    * [Github](https://github.com/prius)
-    * [Reddit](https://www.reddit.com/user/omgitspavel)
-    * [Medium](https://medium.com/@pv.safronov)
-    * [Leetcode](https://leetcode.com/omgitspavel/)
-    * [Telegram](https://t.me/omgitsblog)
+* [Linked In](https://linkedin.com/in/pvs)
+* [Github](https://github.com/prius)
+* [Reddit](https://www.reddit.com/user/omgitspavel)
+* [Medium](https://medium.com/@pv.safronov)
+* [Leetcode](https://leetcode.com/omgitspavel/)
+* [Telegram](https://t.me/omgitsblog)
 
 # Articles
 * 2021-09-24 [From zero to FB offer and mentoring other people (my way to 750+ problems)](/articles/way-to-750-lc-problems.md)
