@@ -12,6 +12,8 @@
     * [Medium](https://medium.com/@pv.safronov/introduction-talk-75fb5299fa7f)
 * 2021-09-29 [Anki + studying](/articles/anki.md)
     * [Medium](https://medium.com/@pv.safronov/anki-studying-3-14e8f8f2f4)
+* 2021-10-01 [Leetcode Anki cards generator + python library](/articles/leetcode-anki.md)
+    * [Reddit](https://www.reddit.com/r/leetcode/comments/pzfh2z/leetcode_anki_cards_generator_python_library/)
 
 # Videos
 * 2021-09-21 [System Design interview podcast (Russian)](https://www.youtube.com/watch?v=TyNo3oqSJ8k)
