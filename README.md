@@ -23,6 +23,9 @@
     * [Reddit](https://www.reddit.com/r/Anki/comments/pzg9jh/my_experience_with_anki_after_2_years_as_a/)
 * 2021-10-01 [Leetcode Anki cards generator + python library](/articles/leetcode-anki.md)
     * [Reddit](https://www.reddit.com/r/leetcode/comments/pzfh2z/leetcode_anki_cards_generator_python_library/)
+* 2021-10-01 [SRE interview preparation resources](/articles/sre-interview.md)
+    * [Medium](https://medium.com/@pv.safronov/sre-interview-resources-cdb59c3af24)
+    * [Reddit](https://www.reddit.com/r/sre/comments/pzv8nl/sre_interview_preparation_resources/)
 
 # Videos
 * 2021-09-21 [System Design interview podcast (Russian)](https://www.youtube.com/watch?v=TyNo3oqSJ8k)
