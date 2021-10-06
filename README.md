@@ -5,6 +5,7 @@
 * [Medium](https://medium.com/@pv.safronov)
 * [Leetcode](https://leetcode.com/omgitspavel/)
 * [Telegram](https://t.me/omgitsblog)
+* [Youtube](https://www.youtube.com/channel/UCMKU5FYT4b0ojZd4JOgTIkg)
 
 # Articles
 * 2021-09-24 [From zero to FB offer and mentoring other people (my way to 750+ problems)](/articles/way-to-750-lc-problems.md)
