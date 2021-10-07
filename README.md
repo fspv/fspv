@@ -28,6 +28,9 @@
     * [Reddit](https://www.reddit.com/r/sre/comments/pzv8nl/sre_interview_preparation_resources/)
 * 2021-10-03 [Window bound layout for Linux + i3](/articles/window-bound-layout.md)
     * [Medium](https://medium.com/@pv.safronov/window-bound-layout-for-linux-i3-37cbc5bd4dfe)
+* 2021-10-08 [Dynamic programming is simple #2](/articles/dynamic-programming-is-simple-2.md)
+    * [Leetcode](https://leetcode.com/discuss/study-guide/1508238/Dynamic-programming-is-simple-2)
+    * [Medium](https://medium.com/@pv.safronov/dynamic-programming-is-simple-2-32147f45d525)
 
 # Videos
 * 2021-09-21 [System Design interview podcast (Russian)](https://www.youtube.com/watch?v=TyNo3oqSJ8k)
