@@ -33,6 +33,8 @@
 * 2021-10-08 [Dynamic programming is simple #2](/articles/dynamic-programming-is-simple-2.md)
     * [Leetcode](https://leetcode.com/discuss/study-guide/1508238/Dynamic-programming-is-simple-2)
     * [Medium](https://medium.com/@pv.safronov/dynamic-programming-is-simple-2-32147f45d525)
+* 2021-10-08 [How I choose the next leetcode problem to solve](/articles/how-i-choose-the-next-leetcode-problem.md)
+    * [Medium](https://medium.com/@pv.safronov/how-i-choose-the-next-leetcode-problem-to-solve-e0d9ae9bc0f)
 
 # Videos
 * 2021-09-21 [System Design interview podcast (Russian)](https://www.youtube.com/watch?v=TyNo3oqSJ8k)
