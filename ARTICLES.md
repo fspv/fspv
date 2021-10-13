@@ -28,3 +28,5 @@
     * [Medium](https://medium.com/@pv.safronov/how-i-choose-the-next-leetcode-problem-to-solve-e0d9ae9bc0f)
 * 2021-11-11 [How I built a web service in AppEngine over the weekend](/articles/appengine-service-in-2-days.md)
     * [Medium](https://medium.com/@pv.safronov/how-i-built-a-web-service-in-appengine-over-the-weekend-6a90192c4699)
+* 2021-11-13 [Graph traversal python patterns that help you think less and code faster](/articles/dfs-template.md)
+    * [Medium](https://medium.com/@pv.safronov/graph-traversal-python-patterns-that-help-you-think-less-and-code-faster-66f76e1ab820)
