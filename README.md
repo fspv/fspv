@@ -2,7 +2,7 @@
 * [Linked In](https://linkedin.com/in/pvs)
 * [Github](https://github.com/prius)
 * [Reddit](https://www.reddit.com/user/omgitspavel)
-* [Medium](https://medium.com/@pv.safronov)
+* [Medium](https://medium.com/@pv.safronov/membership)
 * [Leetcode](https://leetcode.com/omgitspavel/)
 * [Telegram](https://t.me/omgitsblog)
 * [Youtube](https://www.youtube.com/channel/UCMKU5FYT4b0ojZd4JOgTIkg)
