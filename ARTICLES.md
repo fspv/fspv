@@ -30,3 +30,6 @@
     * [Medium](https://medium.com/@pv.safronov/how-i-built-a-web-service-in-appengine-over-the-weekend-6a90192c4699)
 * 2021-11-13 [Graph traversal python patterns that help you think less and code faster](/articles/dfs-template.md)
     * [Medium](https://medium.com/@pv.safronov/graph-traversal-python-patterns-that-help-you-think-less-and-code-faster-66f76e1ab820)
+* 2021-11-13 [Dynamic programming is simple #3 (multi-root recursion)](/articles/dynamic-programming-is-simple-3.md)
+    * [Leetcode](https://leetcode.com/discuss/study-guide/1527916/Dynamic-programming-is-simple-3-(multi-root-recursion))
+    * [Medium](https://medium.com/@pv.safronov/dynamic-programming-is-simple-3-multi-root-recursion-c613dfcc15b4)
