@@ -33,3 +33,5 @@
 * 2021-11-13 [Dynamic programming is simple #3 (multi-root recursion)](/articles/dynamic-programming-is-simple-3.md)
     * [Leetcode](https://leetcode.com/discuss/study-guide/1527916/Dynamic-programming-is-simple-3-(multi-root-recursion))
     * [Medium](https://medium.com/@pv.safronov/dynamic-programming-is-simple-3-multi-root-recursion-c613dfcc15b4)
+* 2021-11-21 [Moscow state university network built by students](/articles/msu-network.md)
+    * [Medium](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9)
