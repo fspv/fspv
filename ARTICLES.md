@@ -35,3 +35,5 @@
     * [Medium](https://medium.com/@pv.safronov/dynamic-programming-is-simple-3-multi-root-recursion-c613dfcc15b4)
 * 2021-11-21 [Moscow state university network built by students](/articles/msu-network.md)
     * [Medium](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9)
+* 2021-11-23 [Using facebook’s pyre to infer types in python automatically](/articles/pyre-infer.md)
+    * [Medium](https://medium.com/@pv.safronov/using-facebooks-pyre-to-infer-types-in-python-automatically-718d028fe57d)
