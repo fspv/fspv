@@ -37,3 +37,5 @@
     * [Medium](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9)
 * 2021-11-23 [Using facebook’s pyre to infer types in python automatically](/articles/pyre-infer.md)
     * [Medium](https://medium.com/@pv.safronov/using-facebooks-pyre-to-infer-types-in-python-automatically-718d028fe57d)
+* 2021-11-27 (How I sped up my python project 150 times)(/articles/how-i-sped-up-python-app-150-times.md)
+    * [Medium](https://medium.com/@pv.safronov/how-i-sped-up-my-python-project-150-times-252f2b7852b5)
