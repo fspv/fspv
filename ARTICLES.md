@@ -39,3 +39,5 @@
     * [Medium](https://medium.com/@pv.safronov/using-facebooks-pyre-to-infer-types-in-python-automatically-718d028fe57d)
 * 2021-11-27 [How I sped up my python project 150 times](/articles/how-i-sped-up-python-app-150-times.md)
     * [Medium](https://medium.com/@pv.safronov/how-i-sped-up-my-python-project-150-times-252f2b7852b5)
+* 2022-03-25 [Dynamic programming is simple #4 (bitmap + optimal solution reconstruction)](/articles/dynamic-programming-is-simple-4.md)
+    * [Medium](https://medium.com/@pv.safronov/dynamic-programming-is-simple-4-bitmap-optimal-solution-reconstruction-a4ffaf949bd6)
