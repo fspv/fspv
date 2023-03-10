@@ -1,3 +1,5 @@
+This account has recently been renamed [prius](https://github.com/prius) => [fspv](https://github.com/fspv). So don't freak out, it's still me. I'm just getting rid of a legacy username I wanted to abandon for more than 10 years. Old links should still be working, as I still control my old username. But let me know if something is broken.
+
 # Accounts
 * [Linked In](https://linkedin.com/in/pvs)
 * [Github](https://github.com/prius)
